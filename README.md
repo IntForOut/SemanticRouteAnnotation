@@ -16,8 +16,8 @@
 
 > README Contents
 > - [Prerequisites](#Prerequisites)
-> - [Data Description](#Data Description)
-> - [Purpose of the Python Scripts](#Purpose of the Python Scripts)
+> - [Data Description](#Data-Description)
+> - [Purpose of the Python Scripts](#Purpose-of-the-Python-Scripts)
 >     * [Loading data](#Loading Data in the Graph Database)
 >     * [Semantic Queries](#Performing Semantic Queries)
 > - [Special thanks](#Special thanks)
