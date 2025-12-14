@@ -36,11 +36,18 @@ A source code for loading semantic annotations into a graph database and perform
 
 ## Data Description
 
+Multiple datasets are required to load the database.
 
-1/ S'appuie sur la version 2.0 de l'ontologie des objets de repères qui est fournie dans le répertoire *data* et dont les évolutions sont référencées dans le dépôt github: 
+
+1/ Version 2.0 of the Ontology of LandmaRks, provided in the file *oor_v2_0_0.owl* in the data directory, with its updates referenced in the GitHub repository: https://github.com/umrlastig/landmark-ontology
 
 
-2/ Sur un jeu d'annotations et d'itinéraires déposés sur une plateforme de dépôt de données ouvertes *Zenodo*: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930773.svg)](https://doi.org/10.5281/zenodo.17930773)
+2/ The Landmarks are separated according to their representations: POIs and topographic features.
+- The 5 CSV files containing the POIs are extracted from the dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6514812.svg)](https://doi.org/10.5281/zenodo.6514812) published on Zenodo.
+- The 5 shapefiles containing the topographic features come from the BDTOPO dataset (https://geoservices.ign.fr/bdtopo)
+
+
+3/ Sur un jeu d'annotations et d'itinéraires déposés sur une plateforme de dépôt de données ouvertes *Zenodo*: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930773.svg)](https://doi.org/10.5281/zenodo.17930773)
 
 The 13 routes, derived from diverse collaborative sources, are stored in the file routes.csv. The geometries of the routes were map-matched to the BDTOPO road network representing the mobility network and are stored in the mobilite layer of the GeoPackage. The map-matching process is described in: https://doi.org/10.1080/23729333.2019.1615730.
 
@@ -57,26 +64,21 @@ The semantic annotations of the routes are also stored in the GeoPackage in the 
 * *pii_pont* for segments crossing bridges.
 
 
-
-3/ Les POI :
-- les 5 fichiers CSV contenant les landmarks sont extraits du jeu de données sur Zenodo ... et sur la zone d'étude
-
-
-
-
-
 <br/>
 
 ## Purpose of the Python Scripts
 
+
+
 ### Loading Data in the Graph Database
 
 
-1°) Les 3 premiers peuvent lanceScript 1
+1°) Les 3 premiers peuvent se lancer dans une console python classique
 
 
-2°) A lancer dans QGIS:
--
+2°) Les suivants sont à lancer dans QGIS
+
+
 
 
 ### Performing Semantic Queries
