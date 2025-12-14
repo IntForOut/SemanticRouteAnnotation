@@ -1,17 +1,14 @@
 # SemanticRouteAnnotation
 
-<p align="center">
-<table style="border:none;border:0;width:60%"><tr>
-  <td align="center" style="width:30%">...</td>
-  <td style="padding:16px;"><label>SemanticRouteAnnotation:</label> a source code for loading semantic annotations into a graph database and performing semantic queries.</td>
-</tr></table>
-</p>
+A source code for loading semantic annotations into a graph database and performing semantic queries.
+
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Code source License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Supported Python Versions](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
 
 
+...
 
 
 > README Contents
@@ -25,6 +22,7 @@
 > - [Acknowledgments](#Acknowledgments)
 
 
+<br/>
 
 ## Prerequisites
 
@@ -34,6 +32,7 @@ Créer une base de données neo4j et un utilisateur qui a les bons droits. La ve
 Certains scripts écrits en python utilisent l'API QGIS et doivent donc être lancés dans la console python de QGIS.
 
 
+<br/>
 
 ## Data Description
 
@@ -66,7 +65,7 @@ The semantic annotations of the routes are also stored in the GeoPackage in the 
 
 
 
-
+<br/>
 
 ## Purpose of the Python Scripts
 
@@ -84,7 +83,7 @@ The semantic annotations of the routes are also stored in the GeoPackage in the 
 
 
 
-
+<br/>
 
 ## How to cite
 
@@ -94,7 +93,7 @@ Ce travail a été publié dans ce rapport technique:
 .......
 </div>
 
-
+<br/>
 
 ## Special thanks
 <ul>
@@ -103,6 +102,7 @@ Ce travail a été publié dans ce rapport technique:
 <li></li>
 </ul>
 
+<br/>
 
 ## Development
 
@@ -112,6 +112,8 @@ Institute: LASTIG, Univ Gustave Eiffel, Geodata-Paris, IGN
 
 Authors: [Marie-Dominique Van Damme](https://www.umr-lastig.fr/mdvandamme/)
 
+
+<br/>
 
 ## Acknowledgments
 
