@@ -2,6 +2,7 @@
 
 A source code for loading semantic annotations into a graph database and performing semantic queries.
 
+<br/>
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![Code source License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -26,10 +27,9 @@ A source code for loading semantic annotations into a graph database and perform
 
 ## Prerequisites
 
-Créer une base de données neo4j et un utilisateur qui a les bons droits. La version de la base utilisée est la 5.24. Il faut aussi installer les plugins suivants : 
+- A Neo4j database and a user with the appropriate permissions have been created. The database version used is 5.24. You also need to install the following plugin: APOC (5.24.2).
 
-
-Certains scripts écrits en python utilisent l'API QGIS et doivent donc être lancés dans la console python de QGIS.
+- Some Python scripts use the QGIS API and therefore need to be run in the QGIS Python console.
 
 
 <br/>
