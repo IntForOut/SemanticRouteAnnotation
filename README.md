@@ -69,16 +69,17 @@ Multiple datasets are required to load the database.
 ## Purpose of the Python Scripts
 
 
-
 ### Loading Data in the Graph Database
 
+The first three scripts can be run in a standard Python console, whereas the following ones must be run in the QGIS Python console. For all scripts, you only need to update the data file paths in the script and the database connection parameters.
 
-1°) Les 3 premiers peuvent se lancer dans une console python classique
+* 1_ontoloy.py: loads the landmark ontology into the database.
 
+* 2_route.py: loads the routes, including their titles and data sources.
 
-2°) Les suivants sont à lancer dans QGIS
+* 3_objrepere.py: loads the POIs.
 
-
+* 4_objgeo.py: loads the topographic features.
 
 
 ### Performing Semantic Queries
