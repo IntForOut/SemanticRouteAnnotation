@@ -1,0 +1,73 @@
+WKT;id;nom;type;uri
+"MULTIPOINT ((904680.34705569 6435488.68287831))";"936057";Décollage : Pré Berca (Col de l'Arzelier);paragliding_takeoff;"http://purl.org/choucas.ign.fr/oor#secteur_d&apos;atterrissage_parapente"
+"MULTIPOINT ((899131.122748851 6439000.24109929))";"145572";Corrençon - Clot de la Balme (station);access;http
+"MULTIPOINT ((904469.060170861 6443809.82387487))";"996573";Déco Plateau du Cornafion;paragliding_takeoff;"http://purl.org/choucas.ign.fr/oor#secteur_d&apos;atterrissage_parapente"
+"MULTIPOINT ((903332.919601544 6438270.71222687))";"300934";Les Deux Sœurs - Dôme de l'Œille;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902736.853104816 6441863.52346542))";"1010034";Abri de la Fauge;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((899218.331638647 6432403.49385923))";"486757";Tune de l'Ours;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903700.699547894 6437676.56890737))";"109273";Baraque des Clos;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((900880.654909173 6432297.35666551))";"142105";Saint-Andéol;access;http
+"MULTIPOINT ((902924.317203119 6436779.97186632))";"181454";Les Deux Sœurs;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901705.760760102 6437120.65146353))";"1202803";Col des Moucherolles;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((902960.463689742 6443528.95155755))";"1216379";Fontaine Magdelen;waterpoint;http
+"MULTIPOINT ((904524.82095954 6435762.60252508))";"145744";Col de l'Arzelier;access;http
+"MULTIPOINT ((898300.065352086 6439326.81767518))";"145472";Corrençon - Foyer de ski de fond;access;http
+"MULTIPOINT ((903718.882639032 6442569.39272921))";"1216400";Abreuvoir de Roybon;waterpoint;http
+"MULTIPOINT ((904066.828719206 6440666.69857241))";"43575";Ranc des Agnelons - Tour Fendue;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((904471.212480206 6443749.22148308))";"37453";Plateau du Cornafion;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901701.030243218 6444906.95809053))";"1217503";Fontaine des Vières;waterpoint;http
+"MULTIPOINT ((902913.195586273 6444673.78524533))";"110548";Villard-de-Lans - La Conversaria;access;http
+"MULTIPOINT ((899481.559401536 6433061.77344682))";"658072";1ère Tour du Playnet;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((899257.28972313 6430621.99094256))";"176568";Abri de la Peyrouse;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((899190.080487674 6433542.26503094))";"199645";Pas Ernadant;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903665.548300875 6440507.74158704))";"1219744";Bivouac du Gerbier;bivouac;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((901997.731719901 6437247.63865047))";"41785";Grande Moucherolle;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902494.637945784 6441050.54258726))";"848956";Webcam Pré des Preys (vue sur le Gerbier W);webcam;
+"MULTIPOINT ((903596.824581323 6436129.87184687))";"343269";La Soldanelle;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((902617.896487227 6442012.38758691))";"1202800";Collet des Clots;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904457.48742739 6438634.85361))";"109272";Prélenfrey;access;http
+"MULTIPOINT ((903225.934458033 6437417.67217904))";"39662";Les Deux Sœurs - Pointe Sophie;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901271.776087008 6441432.05990873))";"1202816";Atterrissage officiel Villard;paragliding_landing;http://purl.org/choucas.ign.fr/oor#secteur_de_décollage_parapente
+"MULTIPOINT ((902774.593701395 6436884.1006278))";"557845";Les Deux Sœurs - Pointe 2167 m;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901119.315728607 6436815.34577506))";"811848";Refuge du Grand Couloir;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((904066.828719206 6440666.69857241))";"40833";Ranc des Agnelons;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((900672.597937752 6436183.07234204))";"436021";Pas de la Balme;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903021.078197559 6437148.72792208))";"39104";Col des Deux Sœurs;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((900737.084673385 6444470.83897812))";"175447";Villard-de-Lans;access;http
+"MULTIPOINT ((903592.860982668 6442651.37059099))";"185004";Cabane de Roybon (ou des Clots);hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((903426.775321905 6438433.04778768))";"1203661";Décollage : Pas de l'Oeille;paragliding_takeoff;"http://purl.org/choucas.ign.fr/oor#secteur_d&apos;atterrissage_parapente"
+"MULTIPOINT ((902626.948680297 6438211.54904989))";"40757";Rochers des Jaux (La Cote 2000);summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902774.77395972 6442977.19313092))";"1216403";Fontaine de la Fauge;waterpoint;http
+"MULTIPOINT ((899491.953381391 6433057.43949949))";"39709";Tours du Playnet;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((898891.866180696 6431107.46998588))";"41950";Pas Etoupe;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((902192.570176859 6440037.93671522))";"1202814";Décollage des pistes de Villard;paragliding_takeoff;"http://purl.org/choucas.ign.fr/oor#secteur_d&apos;atterrissage_parapente"
+"MULTIPOINT ((903499.460349609 6435367.81551255))";"352079";Le Mauret;access;http
+"MULTIPOINT ((900862.928826108 6436596.42104423))";"1202809";Roche du Coin;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902026.972744305 6442336.89627319))";"110555";Villard-de-Lans - Les Glovettes/Le Balcon de Villard;access;http
+"MULTIPOINT ((902924.317203119 6436779.97186632))";"40669";Les Deux Sœurs - Pointe Agathe;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((899935.845716262 6435469.71827983))";"39993";Rochers de la Balme;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((898863.074463044 6430519.26392531))";"39245";La Peyrouse;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((903674.547096073 6437583.3982609))";"1259835";Source des Clos;waterpoint;http
+"MULTIPOINT ((898238.273720995 6439210.94820669))";"274677";Gîte d'étape des Hauts-Plateaux ;gite;http://purl.org/choucas.ign.fr/oor#gîte
+"MULTIPOINT ((900041.367045925 6435866.48491113))";"41175";Tête des Chaudières;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901407.986244375 6441643.37061407))";"1222844";Fontaine des balcons de Villard;waterpoint;http
+"MULTIPOINT ((903736.055413569 6438308.02345204))";"43232";Les Sultanes;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901695.075766105 6434133.02268328))";"144524";Puy Trangoulia;access;http
+"MULTIPOINT ((903643.216924332 6440244.20278505))";"1219745";Source sous le Gerbier;waterpoint;http
+"MULTIPOINT ((905068.40502493 6434828.59849565))";"860937";Crête de la Ferrière;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902023.431499058 6444223.40732092))";"110552";Villard-de-Lans - Les Cochettes;access;http
+"MULTIPOINT ((903508.384544672 6438398.13383806))";"37898";Pas de l'Œille;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904410.63892382 6442598.2134415))";"39739";Col Vert;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((901603.866712549 6437043.72505161))";"39215";Petite Moucherolle;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((904674.762418455 6443738.14519757))";"41528";Roc Cornafion;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((903874.524305362 6439539.1491563))";"39672";Gerbier;summit;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((900649.855440692 6430455.14115972))";"279288";Garneyre;access;http
+"MULTIPOINT ((897547.246659086 6434827.79260849))";"189062";Cabane de Carrette;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((899079.443921949 6431871.88195407))";"37542";Pas Morta;pass;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((901084.282383345 6436794.30817031))";"1202813";Décollage : Sommet du Belvédère;paragliding_takeoff;"http://purl.org/choucas.ign.fr/oor#secteur_d&apos;atterrissage_parapente"
+"MULTIPOINT ((899149.019830864 6435651.0016447))";"1203679";Cabane de Serre du Play;hut;http://purl.org/choucas.ign.fr/oor#hébergement_isolé
+"MULTIPOINT ((904719.556028589 6441819.18427875))";"185002";Baraque du Col Vert;shelter;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((902099.977392263 6442901.54790493))";"110553";Villard-de-Lans - Les Clots;access;http
+"MULTIPOINT ((902927.117943846 6438203.89250251))";"300928";Clot d'Aspres;climbing_outdoor;"http://purl.org/choucas.ign.fr/oor#site_d&apos;escalade"
+"MULTIPOINT ((902734.395054998 6442889.99251534))";"276007";Vallon de la Fauge;climbing_outdoor;"http://purl.org/choucas.ign.fr/oor#site_d&apos;escalade"
+"MULTIPOINT ((899730.34836892 6439094.8048553))";"102609";Corrençon - Rochers de Combeauvieux;climbing_outdoor;"http://purl.org/choucas.ign.fr/oor#site_d&apos;escalade"

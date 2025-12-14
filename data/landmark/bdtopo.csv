@@ -1,0 +1,422 @@
+WKT;id;nom;type;uri
+"MULTIPOINT ((902766.9 6443247.4))";PAIHYDRO0000000007458546;Cascade de la Fauge;Cascade;http://purl.org/choucas.ign.fr/oor#cascade
+"MULTIPOINT ((901719.8 6436083.6))";PAIHYDRO0000002209679457;Source de Fontbessou;Source;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((901287.0 6437931.2))";PAIHYDRO0000000332220491;Fontaine de l'Ours;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((902961.2 6443530.5))";PAIHYDRO0000000007458547;Fontaine Magdelen;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((904216.3 6443176.2))";PAIHYDRO0000000007458543;Fontaine de Pissavache;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((901941.3 6443672.5))";PAIHYDRO0000000007458548;Fontaine Aymard;Source captée;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((901042.8 6443016.7))";PAIHYDRO0000000007458549;Fontaine du Renard;Source;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((903652.3 6442337.7))";PAIHYDRO0000000007458564;Fontaine Grand Gour;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((900157.2 6442175.9))";PAIHYDRO0000000007458565;Font de la Maie;Résurgence;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((902234.4 6444526.0))";PAIHYDRO0000000007458545;Œil de la Duis;Résurgence;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((901943.3 6440288.3))";PAIHYDRO0000000007458577;Fontaine du Sac;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((899060.6 6438307.7))";PAIHYDRO0000000007458598;Fontaine de Giraud-Bernard;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((900933.6 6436381.7))";PAIHYDRO0000000007458618;Fontaine du Coin;Source;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((897620.5 6436456.1))";PAIHYDRO0000000007458619;Puits des Ravières;Point d'eau;http
+"MULTIPOINT ((901802.8 6435840.4))";PAIHYDRO0000000007458649;Fontaine Barnière;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((902069.1 6435763.2))";PAIHYDRO0000000007458650;Fontaine du Mas;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((904632.7 6438027.2))";PAIHYDRO0000000332220492;Source de la Combre de Lynx;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((904544.0 6444226.9))";PAIHYDRO0000000007458542;Fontaine du Chaulange;Fontaine;http://purl.org/choucas.ign.fr/oor#fontaine
+"MULTIPOINT ((900944.9 6430921.7))";PAIHYDRO0000000007458704;Fontaine de Fontagnon;Source;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((902626.1 6436514.0))";PAIHYDRO0000000007458617;Fontaine des Sarrasins;Source;http://purl.org/choucas.ign.fr/oor#source
+"MULTIPOINT ((901247.2 6434348.7))";COURDEAU0000002215478812;Ruisseau des Combes;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((901385.8 6431436.4))";COURDEAU0000002000802673;Ruisseau de Berrieves;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((899998.8 6433379.5))";COURDEAU0000002000802672;Ruisseau Sec;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((900620.7 6432850.7))";COURDEAU0000002000802671;Ruisseau Raffin;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((900934.9 6436521.5))";COURDEAU0000002000802668;Ruisseau Munier;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((900327.4 6444315.4))";COURDEAU0000002000802661;Ruisseau de Corrençon;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((901028.5 6443011.6))";COURDEAU0000002000802660;Ruisseau du Frier;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((903072.8 6436397.3))";COURDEAU0000002000796542;Ruisseau Chorier;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((902657.9 6436718.6))";COURDEAU0000002000796541;Ruisseau du Mas-Roux;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((904531.0 6435532.5))";COURDEAU0000002000796540;Ruisseau de la Chapelle;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((902187.8 6444563.2))";COURDEAU0000002000796527;Ruisseau de Font Noire;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((903292.1 6441577.5))";COURDEAU0000002000796535;Ruisseau de la Fauge;cours d'eau;"http://purl.org/choucas.ign.fr/oor#cours_d&apos;eau"
+"MULTIPOINT ((902488 6437726))";PLANDEAU0000002209773384;Lac de la Grande Moucherolle;Lac;http://purl.org/choucas.ign.fr/oor#lac
+"MULTIPOINT ((902530.6 6440966.1))";PLANDEAU0000002215382403;Lac des Prés;Lac;http://purl.org/choucas.ign.fr/oor#lac
+"MULTIPOINT ((900701.2 6440204.9))";PLANDEAU0000000007458578;le Lauzet;Lac;http://purl.org/choucas.ign.fr/oor#lac
+"MULTIPOINT ((903740.0 6439401.7))";PAIOROGR0000000007455890;Arêtes du Gerbier;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((901989.1 6437247.8))";PAIOROGR0000000007455997;la Grande Moucherolle;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901577.9 6437058.5))";PAIOROGR0000000007455999;la Petite Moucherolle;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((900649.8 6432283.0))";PAIOROGR0000000007456317;les Charreyres;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((903519.8 6438417.2))";PAIOROGR0000000007455893;Pas de l'Œille;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903030.5 6437148.2))";PAIOROGR0000000007455991;Col des Deux Sœurs;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((898773.1 6438872.9))";PAIOROGR0000000007455903;Combe du Souillet;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((904609.2 6444989.0))";PAIOROGR0000000007455522;Combe Noire;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((901699.4 6437109.4))";PAIOROGR0000000007455998;Col des Moucherolles;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904680.4 6443740.5))";PAIOROGR0000000007455606;Roc Cornafion;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((904181.2 6441225.2))";PAIOROGR0000000007455779;Rochers du Ranc des Agnelons;Escarpement;http://purl.org/choucas.ign.fr/oor#escarpement
+"MULTIPOINT ((903551.0 6438568.1))";PAIOROGR0000000007455894;les Aiguilles;Pic;http://purl.org/choucas.ign.fr/oor#pic
+"MULTIPOINT ((902662.8 6438682.6))";PAIOROGR0000000007455895;Rochers des Jaux;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((902530.2 6438710.7))";PAIOROGR0000000007455896;la Cote 2000;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((899732.4 6439016.5))";PAIOROGR0000000007455902;Rochers des Combeauvieux;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((904584.3 6434295.2))";PAIOROGR0000000007456225;Crête de la Ferrière;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((898919.5 6430784.3))";PAIOROGR0000000007456417;Rochers de la Peyrouse;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((901468.9 6434486.8))";PAIOROGR0000000007456230;Chasau;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((899018.8 6434673.7))";PAIOROGR0000000007456232;Clos de la Fure;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((903567.2 6433583.7))";PAIOROGR0000000007456227;Soliet;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901210.9 6445053.1))";PAIOROGR0000000007455524;Combe Pourouze;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((902923.0 6435120.7))";PAIOROGR0000000007456116;les Reynes;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((902614.0 6442067.9))";PAIOROGR0000000007455698;Collet des Clots;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((902660.2 6434887.2))";PAIOROGR0000000007456117;les Châtelas;Plaine;http://purl.org/choucas.ign.fr/oor#plaine
+"MULTIPOINT ((903403.4 6443250.0))";PAIOROGR0000000007455607;le Mont Chillon;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((902419.1 6444277.5))";PAIOROGR0000000007455609;Combe du Bayle;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((901678.8 6437872.9))";PAIOROGR0000000007456001;Combe de l'Ourson;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((903945.5 6435762.3))";PAIOROGR0000000007456113;les Bruyères;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901141.2 6438797.6))";PAIOROGR0000000007455899;Combe de l'Escalier;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((900130.2 6439609.5))";PAIOROGR0000000007455900;Combe des Mayousses;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((903275.0 6435509.4))";PAIOROGR0000000007456115;la Rousse;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901532.1 6437895.1))";PAIOROGR0000000007456000;Scialet de la Cuillère à Pot;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((904744.2 6441517.1))";PAIOROGR0000000007455695;Glacière;Grotte;http://purl.org/choucas.ign.fr/oor#grotte
+"MULTIPOINT ((901682.4 6432819.6))";PAIOROGR0000000007456315;Pey Bousou;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((901513.7 6438189.0))";PAIOROGR0000000007455898;Combe de l'Ours;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((903626.9 6435163.6))";PAIOROGR0000000007456114;le Bénitier;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((900176.5 6430224.0))";PAIOROGR0000000007456416;Combe Crose;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((899498.2 6439316.2))";PAIOROGR0000000007455901;Scialet de Perrette;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((901725.3 6431882.1))";PAIOROGR0000000007456314;Merlé;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((903449.9 6438948.4))";PAIOROGR0000000007455892;Grand Couloir;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((902907.5 6434481.5))";PAIOROGR0000000007456229;le Cros;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((899333.1 6436351.3))";PAIOROGR0000002003910401;Scialet de la Combe du Fer;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((904406.8 6442654.8))";PAIOROGR0000000007455696;Col Vert;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903990.9 6444694.1))";PAIOROGR0000000070447450;Combe Chaulange;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((900086.9 6435614.7))";PAIOROGR0000000007456122;le Goulot;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903324.5 6440812.9))";PAIOROGR0000000007455783;Combe Charbonnière;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((900860.5 6436590.1))";PAIOROGR0000000007456003;Roche du Coin;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902757.0 6439177.4))";PAIOROGR0000000007455897;Clot d'Aspres;Dépression;http://purl.org/choucas.ign.fr/oor#dépression_fermée
+"MULTIPOINT ((898414.9 6434151.4))";PAIOROGR0000000007456235;le Grand Pot;Dépression;http://purl.org/choucas.ign.fr/oor#dépression_fermée
+"MULTIPOINT ((897191.6 6435146.0))";PAIOROGR0000000007456128;Porte Barnier;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((898267.7 6436211.7))";PAIOROGR0000000007456125;Côte Gy;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((898363.1 6438714.6))";PAIOROGR0000000007455904;Combe du Fourneau;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((904301.7 6444080.5))";PAIOROGR0000000007455604;Plateau du Cornafion;Plaine;http://purl.org/choucas.ign.fr/oor#plaine
+"MULTIPOINT ((900038.1 6435865.8))";PAIOROGR0000000007456120;Tête des Chaudières;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902792.1 6439655.6))";PAIOROGR0000000007455784;Grotte du Clot d'Aspres;Grotte;http://purl.org/choucas.ign.fr/oor#grotte
+"MULTIPOINT ((902489.1 6434626.9))";PAIOROGR0000000007456228;Ravin Côte Valleyre;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((898793.3 6430973.2))";PAIOROGR0000000007456418;Pas Étoupe;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((903407.3 6434517.2))";PAIOROGR0000000007456226;la Terrasse;Plaine;http://purl.org/choucas.ign.fr/oor#plaine
+"MULTIPOINT ((897966.3 6439384.3))";PAIOROGR0000000007455905;la Barre aux Chèvres;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((901211.8 6434097.4))";PAIOROGR0000000007456231;Truché;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((901675.1 6431152.2))";PAIOROGR0000000007456415;Rochers du Fay;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((901227.7 6437694.9))";PAIOROGR0000000007456004;Pas de la Fenêtre;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904428.3 6434510.4))";PAIOROGR0000000007456224;les Versanes;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901036.1 6437951.3))";PAIOROGR0000000007456002;Scialet de la Choa;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((899067.3 6436484.6))";PAIOROGR0000000007456005;Combe de Fer;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((904976.7 6442642.0))";PAIOROGR0000000007455694;l'Enclume;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((904111.1 6440390.6))";PAIOROGR0000000007455781;Double Brèche;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((898913.9 6431871.3))";PAIOROGR0000000007456323;Pas Morta;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((899302.2 6432302.5))";PAIOROGR0000000007456321;Tune de l'Ours;Grotte;http://purl.org/choucas.ign.fr/oor#grotte
+"MULTIPOINT ((899081.4 6433581.2))";PAIOROGR0000000007456234;Pas Ernadant;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((899548.4 6432940.8))";PAIOROGR0000000007456320;Rocher du Playnet;Escarpement;http://purl.org/choucas.ign.fr/oor#escarpement
+"MULTIPOINT ((904100.9 6436522.3))";PAIOROGR0000000007455989;la Sétive;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901767.6 6434954.8))";PAIOROGR0000000007456118;les Gazeyres;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((900724.5 6436216.6))";PAIOROGR0000000007456119;Pas de la Balme;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((900552.5 6441901.8))";PAIOROGR0000000007455701;Combe des Pouteils;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((899377.9 6432623.6))";PAIOROGR0000000007456322;Roches Rousses;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902818.5 6444370.0))";PAIOROGR0000000007455610;Combe Crose;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((900350.1 6435429.6))";PAIOROGR0000000007456123;Tissonier;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901840.4 6433720.5))";PAIOROGR0000000007456318;Sautelaire;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904937.1 6444313.8))";PAIOROGR0000000007455603;Rochers de l'Ours;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((904126.5 6440197.6))";PAIOROGR0000000007455780;le Rasoir;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((903004.1 6441312.2))";PAIOROGR0000000007455699;Perte de la Fauge;Grotte;http://purl.org/choucas.ign.fr/oor#grotte
+"MULTIPOINT ((903309.3 6443580.5))";PAIOROGR0000000007455608;Combe de Lurbeillet;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((899497.8 6439962.6))";PAIOROGR0000000007455789;Rochers Fournier;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((900522.1 6431842.5))";PAIOROGR0000000007456316;Chatelas;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((898358.9 6435428.7))";PAIOROGR0000000007456126;Ranc de l'Abbé;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((904525.5 6443369.2))";PAIOROGR0000000007455605;Combe de Pissavache;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((900355.2 6431722.0))";PAIOROGR0000000007456319;Ravin de Bourgmenu;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((904099.7 6439987.0))";PAIOROGR0000000007455782;le Peigne;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((899955.9 6434903.5))";PAIOROGR0000000007456124;Betrenand;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((899374.4 6434194.1))";PAIOROGR0000000007456233;Crête des Rochers de la Balme;Crête;http://purl.org/choucas.ign.fr/oor#crête
+"MULTIPOINT ((902938.6 6442873.3))";PAIOROGR0000000007455697;Vallon de la Fauge;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((902588.0 6436366.5))";PAIOROGR0000000007455995;Côte Vialin;Versant;http://purl.org/choucas.ign.fr/oor#versant
+"MULTIPOINT ((901915.8 6440689.2))";PAIOROGR0000000007455786;Rochers du Pourton;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((900780.1 6440018.6))";PAIOROGR0000000007455787;Combe Gendarme;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((903022.6 6436839.3))";PAIOROGR0000000007455994;Grande Sœur Agathe;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((902931.9 6437438.5))";PAIOROGR0000000007455996;Scialet des Deux Sœurs;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((902964.2 6439803.0))";PAIOROGR0000000007455785;Grande Combe;Vallée;http://purl.org/choucas.ign.fr/oor#vallée
+"MULTIPOINT ((903082.5 6439502.2))";PAIOROGR0000000007455891;Scialet de l'Œillé;Gouffre;http://purl.org/choucas.ign.fr/oor#gouffre
+"MULTIPOINT ((903338.3 6437251.8))";PAIOROGR0000000007455992;Grotte des Deux Sœurs;Grotte;http://purl.org/choucas.ign.fr/oor#grotte
+"MULTIPOINT ((903221.5 6437427.0))";PAIOROGR0000000007455993;Petite Sœur Sophie;Sommet;http://purl.org/choucas.ign.fr/oor#sommet
+"MULTIPOINT ((897601.5 6436929.8))";PAIOROGR0000000007456006;Rochers de l'Échalet;Rochers;http://purl.org/choucas.ign.fr/oor#rocher
+"MULTIPOINT ((903270.7 6437221.8))";PAIOROGR0000000007455990;Rocher des Deux Sœurs;Escarpement;http://purl.org/choucas.ign.fr/oor#escarpement
+"MULTIPOINT ((901933.0 6431533.5))";PAIOROGR0000000334508028;Canyon des Moules Marinières;Gorge;http://purl.org/choucas.ign.fr/oor#gorge
+"MULTIPOINT ((902671.2 6437513.1))";PAIOROGR0000002221761861;Col du Clos d'Aspres;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904015.2 6433634.7))";PAIOROGR0000002012151548;Col de Soliet;Col;http://purl.org/choucas.ign.fr/oor#col
+"MULTIPOINT ((904195.0 6439744.1))";PAIE_NAT0000000338021531;la Pierre des Deux Heures;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901548.8 6432896.6))";PAIE_NAT0000000007452059;les Traverses;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904561.1 6435562.3))";PAIE_NAT0000000007451861;le Collet;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903400.7 6443868.4))";PAIE_NAT0000000007451452;les Côtes;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903672.8 6442515.3))";PAIE_NAT0000000007451549;Clos du Four;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902476.8 6442498.6))";PAIE_NAT0000000007451552;l'Aversin;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((905010.4 6434932.0))";PAIE_NAT0000000007451857;Playnet;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898354.0 6433222.8))";PAIE_NAT0000000007451960;la Fontaine Gravianelle;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902673.0 6441844.6))";PAIE_NAT0000000007451551;le Jardin de Tanaz;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901083.9 6442361.8))";PAIE_NAT0000000007451555;le Jarasset;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903488.6 6440954.4))";PAIE_NAT0000000007451622;les Selles;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900301.1 6440431.3))";PAIE_NAT0000000007451625;les Vordaignes;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904740.8 6435997.3))";PAIE_NAT0000000007451856;l'Envers;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900866.8 6434057.4))";PAIE_NAT0000000007451956;les Adrets;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903634.9 6443570.7))";PAIE_NAT0000000007451453;Roybonnet;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902568.1 6443936.5))";PAIE_NAT0000000007451456;la Croix des Plâtres;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902281.1 6442053.7))";PAIE_NAT0000000007451550;Clos de la Mene;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900962.9 6434778.9))";PAIE_NAT0000000007451869;les Arzeliers;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899680.0 6438580.9))";PAIE_NAT0000000312980718;Piste des Deux Moucherolles;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903797.1 6445235.7))";PAIE_NAT0000000007451363;Prairies de Machiret;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903740.1 6444185.2))";PAIE_NAT0000000007451454;les Fourches;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903234.5 6441271.3))";PAIE_NAT0000000007451548;Gouillasson;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902376.7 6440847.1))";PAIE_NAT0000000007451623;Pré des Prés;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901843.8 6431367.6))";PAIE_NAT0000000007452140;le Fay;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898448.1 6439067.5))";PAIE_NAT0000000007451691;le Bruchet;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899177.5 6439196.1))";PAIE_NAT0000000007451690;la Grange Bonnet;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900311.5 6436408.0))";PAIE_NAT0000000007451778;les Chaudières;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904810.3 6435719.0))";PAIE_NAT0000000007451858;Savières;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((897599.2 6433280.3))";PAIE_NAT0000000007451961;Pré du Rey Blanc;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902918.0 6443507.9))";PAIE_NAT0000000007451455;les Plâtres;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904798.2 6441400.7))";PAIE_NAT0000000007451547;Pas de l'Âne;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901482.0 6436478.9))";PAIE_NAT0000000007451777;Prés Achard;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903290.4 6436253.5))";PAIE_NAT0000000007451866;Pré Achard;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901254.7 6435720.5))";PAIE_NAT0000000007451871;les Poules;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((905003.4 6433888.0))";PAIE_NAT0000000007451942;Champ du Pré;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902506.1 6433580.8))";PAIE_NAT0000000007451954;le Château;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899655.0 6431386.4))";PAIE_NAT0000000007452142;Pierre Blanche;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903848.8 6434670.7))";PAIE_NAT0000000007451946;Darbonière;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904315.7 6434125.0))";PAIE_NAT0000000007451947;les Vialleyres;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904442.2 6434898.6))";PAIE_NAT0000000007451862;Setine;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903541.1 6435449.7))";PAIE_NAT0000000007451863;les Cerisières;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902716.1 6433640.3))";PAIE_NAT0000000007451950;Larinier;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903181.8 6435310.2))";PAIE_NAT0000000007451865;Mauret;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903247.5 6435786.2))";PAIE_NAT0000000007451864;Grand Bois;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904148.3 6435191.9))";PAIE_NAT0000000007451859;les Ruines;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902118.4 6433270.3))";PAIE_NAT0000000007451955;Platel;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901024.8 6433076.2))";PAIE_NAT0000000007452061;Aux Fraises;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902229.8 6433678.3))";PAIE_NAT0000000007451949;Traversey;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((897229.1 6436674.3))";PAIE_NAT0000000007451783;le Lautaret;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902820.8 6438581.4))";PAIE_NAT0000000007451687;Pré de l'Achard;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898085.4 6438013.6))";PAIE_NAT0000000007451780;Champ de la Bataille;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((897730.1 6437703.0))";PAIE_NAT0000000007451781;la Croix de la Messe;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904860.3 6434203.0))";PAIE_NAT0000000007451944;l'Essarton;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901263.3 6433696.4))";PAIE_NAT0000000007451957;les Sétérées;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899886.8 6431035.7))";PAIE_NAT0000000007452141;Grand Clos;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904471.5 6435355.2))";PAIE_NAT0000000007451860;Pré Berca;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902340.3 6435331.6))";PAIE_NAT0000000007451867;Clan Lot;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904372.9 6438176.4))";PAIE_NAT0000000007451685;les Clos;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((901593.7 6435870.5))";PAIE_NAT0000000007451868;Bois Barnière;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900975.4 6435420.2))";PAIE_NAT0000000007451870;Bois Ras;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900395.4 6433258.2))";PAIE_NAT0000000007451959;Malivers;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((902141.9 6443287.8))";PAIE_NAT0000000007451457;Bois Damier;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((904967 6440580))";PAIE_NAT0000000007451620;Bois de Prélenfrey;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((899657.9 6430675.0))";PAIE_NAT0000000007452144;Bois de la Peyrouse;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900770.5 6440768.9))";PAIE_NAT0000000007451624;Bois des Charpennes;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((904712.4 6436999.6))";PAIE_NAT0000000007451775;la Queue de la Cavale;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((904409.2 6437401.8))";PAIE_NAT0000000007451776;Bois à la Ferrière;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((899596.3 6437468.1))";PAIE_NAT0000000007451779;Combeauvieux;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900779.8 6442776.0))";PAIE_NAT0000000007451553;Bois du Frier;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((896868.8 6438165.9))";PAIE_NAT0000000007451692;Bois des Essarteaux;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((896984.1 6437738.3))";PAIE_NAT0000000007451782;les Trente Pas;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900400.4 6439080.7))";PAIE_NAT0000000007451689;Grand Buisson;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900335.6 6434564.5))";PAIE_NAT0000000007451958;Bois de la Crose;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((901438.6 6442833.3))";PAIE_NAT0000000007451554;Bois Roland;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((899858.4 6440068.4))";PAIE_NAT0000000007451626;Bois Gaillard;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900813.2 6439228.0))";PAIE_NAT0000000007451688;Forêt de Villard;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((897033.7 6433972.5))";PAIE_NAT0000000007451963;Bois de Carrette;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((902004.3 6436693.8))";PAIE_NAT0000000273289126;Forêt Domaniale du Gerbier;Bois;http://purl.org/choucas.ign.fr/oor#massif_boisé
+"MULTIPOINT ((900839.7 6431389.8))";PAIE_NAT0000002222285449;le Clot;Lieu-dit non habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901486.1 6443943.8))";PAIHABIT0000000007547075;les Pierres;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899284.6 6440149.3))";PAIHABIT0000000007547423;les Martins;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898505.8 6439625.5))";PAIHABIT0000000007547500;Ritons;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900786.1 6444875.4))";PAIHABIT0000000007546864;les Sagnes et Fichetaires;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901363.1 6433258.8))";PAIHABIT0000000007547713;les Combes;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904261.2 6435649.9))";PAIHABIT0000000007547626;Chante-Merle;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901133.5 6444609.1))";PAIHABIT0000000330081266;les Gémeaux;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((903105.7 6441741.9))";PAIHABIT0000000007547281;Bergerie de la Fauge;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901410.8 6443545.8))";PAIHABIT0000000007547082;Tintaine;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898647.6 6439660.1))";PAIHABIT0000000007547498;les Bessonnets;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900420.0 6444068.4))";PAIHABIT0000000007547086;l'Essarton;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900605.1 6441397.8))";PAIHABIT0000000007547287;les Bouchards;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901151.7 6441877.6))";PAIHABIT0000000007547288;les Pouteils;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902920.1 6444673.8))";PAIHABIT0000000007546849;la Conversaria;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902005.5 6434034.7))";PAIHABIT0000000007547709;le Mas Roux;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903821.9 6434517.6))";PAIHABIT0000000007547697;Liverset;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898598.9 6440155.7))";PAIHABIT0000000007547429;les Ravix;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904399.5 6435231.9))";PAIHABIT0000000007547623;le Pin;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901390.2 6444663.9))";PAIHABIT0000000007546865;le Mas des Bernards;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901924.5 6433561.8))";PAIHABIT0000000007547711;Maison Freydier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904416.0 6435987.1))";PAIHABIT0000000007547624;Ferme Bonier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903423.0 6434706.8))";PAIHABIT0000000007547696;Puy Grimaud;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902940.2 6434030.9))";PAIHABIT0000000007547706;la Croix;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901353.6 6444217.7))";PAIHABIT0000000007547083;les Jeandiats;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900889.7 6444990.0))";PAIHABIT0000000007546860;la Conterie;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900395.9 6444727.5))";PAIHABIT0000000007546870;Prénatier;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((900392.6 6443068.0))";PAIHABIT0000000007547087;la Balmette;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901689.4 6434217.2))";PAIHABIT0000000007547714;Puy Trangoullia;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900662.9 6445113.8))";PAIHABIT0000000007546861;la Molière;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901963.8 6432202.8))";PAIHABIT0000000007547791;Bouchier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901550.1 6444883.4))";PAIHABIT0000000007546859;les Vières;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((900779.4 6443320.5))";PAIHABIT0000000007547080;l'Achard;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901616.0 6444087.9))";PAIHABIT0000000007547077;l'Échaufaire;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898700.2 6439566.5))";PAIHABIT0000000007547501;le Bois Joli;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((897555.0 6437788.4))";PAIHABIT0000000007547568;Clariant;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898762.9 6439876.2))";PAIHABIT0000000206282819;les Chalets du Green;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903091.4 6434029.3))";PAIHABIT0000000007547699;la Chapelle;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900796.8 6445240.8))";PAIHABIT0000000322978731;la Molière;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((901921.7 6444175.8))";PAIHABIT0000000007547076;les Cochettes;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((901820.5 6433392.4))";PAIHABIT0000000007547708;Maison Chabuel;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901548.9 6443813.4))";PAIHABIT0000000007547074;les Blachons;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904021.1 6435468.4))";PAIHABIT0000000322630412;Gentiane;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899076.1 6439977.3))";PAIHABIT0000000007547425;les Campanules;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899014.9 6439892.5))";PAIHABIT0000000007547426;les Jambets;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901833.7 6433449.7))";PAIHABIT0000000007547712;Laussetaire;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903923.2 6435435.4))";PAIHABIT0000000322630410;Res les Edelweiss;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((900963.1 6444818.5))";PAIHABIT0000000007546862;la Poussinière;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901189.927660778 6431972.48902626))";PAIHABIT0000000007547793;les Chazeaux;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903868.9 6434871.8))";PAIHABIT0000000007547627;Salicon;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904037.4 6435533.2))";PAIHABIT0000000322630413;Perce Neige;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((902944.5 6444846.4))";PAIHABIT0000000007546851;les Espinasses;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902302.5 6434242.7))";PAIHABIT0000000007547702;Laye;Ruines;http://purl.org/choucas.ign.fr/oor#ruine
+"MULTIPOINT ((900669.6 6444137.6))";PAIHABIT0000000007547084;les Bains;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900383.8 6443979.3))";PAIHABIT0000000007547085;l'Essarton;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902848.8 6433835.8))";PAIHABIT0000002203821391;Ld la Rousse;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901202.2 6443923.3))";PAIHABIT0000000007547081;les Gauchets;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898698.3 6440204.6))";PAIHABIT0000000007547436;les Chalets du Vercors;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900742.4 6445204.6))";PAIHABIT0000000322978730;la Bourne;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((901667.0 6432472.4))";PAIHABIT0000000338021470;Larsay;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902559.1 6444751.8))";PAIHABIT0000000007546854;les Mourets;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900617.7 6444054.8))";PAIHABIT0000000007547079;Aux Roybons;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900679.8 6443992.2))";PAIHABIT0000000338546120;la Colline des Bains;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901499.6 6441813.1))";PAIHABIT0000000007547285;Cote 2000;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904111.3 6435536.9))";PAIHABIT0000000007547625;Champ Pialat;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902393.8 6444933.1))";PAIHABIT0000000007546855;les Chaberts;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900888.4 6431871.9))";PAIHABIT0000000338021471;Moneyres;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898463.5 6439929.6))";PAIHABIT0000000007547431;le Brû;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901318.99818453 6433289.71137791))";PAIHABIT0000000007547715;la Combe;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901598.3 6444557.3))";PAIHABIT0000000007546858;les Bernards;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((898833.7 6439931.1))";PAIHABIT0000000007547430;les Rambins;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900658.4 6430383.7))";PAIHABIT0000000007547876;Garneyre;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903984.7 6435397.8))";PAIHABIT0000000322630409;Bleuet;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((898248.5 6439557.8))";PAIHABIT0000000007547502;les Trois Fontaines;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903275.8 6434025.4))";PAIHABIT0000000007547698;Terrasse;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900842.6 6431703.9))";PAIHABIT0000000007547792;Bourgmenu;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900991.7 6443257.4))";PAIHABIT0000000007547286;le Frier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900992.4 6444858.2))";PAIHABIT0000000007546863;Galizon;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901172.9 6444254.9))";PAIHABIT0000000007547078;l'Adret;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900191.9 6442146.6))";PAIHABIT0000000007547290;Font de la Maie;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901632.3 6433732.2))";PAIHABIT0000000007547710;Chênevarie;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899077.8 6439005.9))";PAIHABIT0000000333946988;Vallée Blanche;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899285.9 6438887.3))";PAIHABIT0000000333946989;Carette;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899306.6 6438904.8))";PAIHABIT0000000333946990;Tiolache;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899325.3 6438914.2))";PAIHABIT0000000333946991;Darbounouse;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899348.4 6438919.8))";PAIHABIT0000000333946992;Herbouilly;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899352.8 6438857.5))";PAIHABIT0000000333946993;la Grande Traversée;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((899345.7 6438801.4))";PAIHABIT0000000333946994;les Fayards;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((901363.762455323 6444031.38668083))";PAIHABIT0000000007547088;Villard-de-Lans;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900486.165190528 6442223.97005435))";PAIHABIT0000000007547289;les Guillets;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902079.40020412 6442895.69487536))";PAIHABIT0000000007547282;les Clots;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901088.319823628 6441815.97383081))";PAIHABIT0000000007547283;le Balcon de Villard;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901901.698856891 6442373.25804737))";PAIHABIT0000000007547284;les Glovettes;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903868.565325918 6435213.90470137))";PAIHABIT0000000007547628;Champ Piala;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((904479.104539952 6435688.25))";PAIHABIT0000000007547622;Col de l'Arzelier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903021.949292868 6433953.76754521))";PAIHABIT0000000007547701;Château-Bernard;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901104.98631304 6432324.95033101))";PAIHABIT0000000007547794;Saint-Andéol;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((898844.696546871 6440117.75451386))";PAIHABIT0000000007547437;Corrençon-en-Vercors;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((899337.585483871 6438741.6))";PAIHABIT0000000007547499;Clot de la Balme;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((903846.5 6435528.3))";PAIHABIT0000000322630411;Res les Jonquilles;Quartier;http://purl.org/choucas.ign.fr/oor#quartier
+"MULTIPOINT ((903029.1 6433751.1))";PAIHABIT0000000007547700;Brunaire;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((902602.9 6433800.7))";PAIHABIT0000000007547704;Maseteyre;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((905074.4 6436452.0))";PAIHABIT0000000007547565;l'Arzelier;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901213.2 6432271.6))";PAIHABIT0000002209679368;les Charreyres;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((901493.0 6432665.1))";PAIHABIT0000002209679367;Larsay;Lieu-dit habité;http://purl.org/choucas.ign.fr/oor#lieu-dit
+"MULTIPOINT ((900296.5 6437827.2))";TRANCABL0000000007469932;Télésiège Mixte du Clos de la Balme;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((902658.5 6441028.5))";TRANCABL0000000007469913;Télésiège des Glovettes;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((902454.6 6439228.0))";TRANCABL0000000007469914;Télésiège du Grand Canyon;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((901023.6 6439198.3))";TRANCABL0000000007469927;Télésiège des Crêtes;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((901144.3 6436821.8))";TRANCABL0000000007469931;Télésiège du Belvédère;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((900335.7 6437595.8))";TRANCABL0000000007469930;Téléski les Arolles;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((901518.1 6441655.6))";TRANCABL0000000007469917;Télécabine de Pré des Prés;"Télécabine, téléphérique";http://purl.org/choucas.ign.fr/oor#télécabine
+"MULTIPOINT ((900047.0 6437955.5))";TRANCABL0000000007459630;Téléskis Falaise 1 et 2;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((902501.3 6440110.6))";TRANCABL0000000007469915;Télésiège du Refuge;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((900187.8 6437742.0))";TRANCABL0000002008274987;Falaise 2;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((900491.1 6439161.3))";TRANCABL0000000296053781;Télésiège du Grand Buisson;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((902033.6 6437590.7))";TRANCABL0000000007469928;Téléski de l'Ourson;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((902360.4 6441020.2))";TRANCABL0000000007469920;Téléski Bamby;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((902658.5 6440403.0))";TRANCABL0000000007469923;Téléski des Jaux;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((902347.4 6440934.8))";TRANCABL0000000007469921;Téléski du Refuge 3;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((899270.4 6438604.8))";TRANCABL0000000007469929;Télésiège de Combeauvieux;Télésiège;http://purl.org/choucas.ign.fr/oor#télésiège
+"MULTIPOINT ((899009.3 6439360.0))";TRANCABL0000000007469934;Téléski Rambin II;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((898851.8 6439687.7))";TRANCABL0000000007469935;Téléski Rambin I;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((898958.7 6439709.2))";TRANCABL0000000007469936;Ribambelle;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((902314.4 6440027.5))";TRANCABL0000000007469916;Télécabine Cote 2000;"Télécabine, téléphérique";http://purl.org/choucas.ign.fr/oor#télécabine
+"MULTIPOINT ((902669.6 6441037.7))";TRANCABL0000002003158982;Téléski de Font Mirey;Téléski;http://purl.org/choucas.ign.fr/oor#téléski
+"MULTIPOINT ((900397.9 6444828.3))";EQ_RESEA0000000258318466;Carrefour Bréduire;Carrefour;http://purl.org/choucas.ign.fr/oor#carrefour
+"MULTIPOINT ((900905.5 6444800.8))";EQ_RESEA0000000130193519;Fichetere;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((901132.0 6444066.6))";EQ_RESEA0000000130194123;Parking des Violettes;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((900941.7 6444508.1))";EQ_RESEA0000000130194164;Parking les Bessonets;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((901059.6 6444576.2))";EQ_RESEA0000000130194200;Parking la Poussignière;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((901034.0 6444485.2))";EQ_RESEA0000000130194237;Parking des Laiches;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((901006.7 6444537.1))";EQ_RESEA0000000130194357;Parking Croix Margot;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((900628.7 6444176.5))";EQ_RESEA0000000130194358;Parking des Tennis;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((901138.6 6444011.7))";EQ_RESEA0000000324279020;Parking les Gauchets;Parking;http://purl.org/choucas.ign.fr/oor#parking
+"MULTIPOINT ((897874.490182725 6438510.6))";SURFACTI0000000007459882;Golf de Corrençon-en-Vercors;Golf;http://purl.org/choucas.ign.fr/oor#terrain_de_golf
+"MULTIPOINT ((897567.8 6436514.1))";SURFACTI0000000007463074;Borne du 45ème Parallèle;Monument;http://purl.org/choucas.ign.fr/oor#monument
+"MULTIPOINT ((900790.6 6444547.7))";SURFACTI0000000007463891;Poste de Villard-de-Lans;Poste;http://purl.org/choucas.ign.fr/oor#bureau_de_poste
+"MULTIPOINT ((901099.4 6444439.3))";SURFACTI0000000007462036;École Élémentaire les Laiches;Enseignement primaire;"http://purl.org/choucas.ign.fr/oor#établissement_d&apos;enseignement"
+"MULTIPOINT ((901101.8 6443645.2))";SURFACTI0000000007462035;Lycée Climatique et Sportif Jean Prévost;Lycée;http://purl.org/choucas.ign.fr/oor#lycée
+"MULTIPOINT ((901169.4 6444028.8))";SURFACTI0000000210845854;les Violettes;Structure d'accueil pour personnes handicapées;http
+"MULTIPOINT ((901104.9 6443747.5))";SURFACTI0000000227991514;Collège Jean Prévost;Collège;http://purl.org/choucas.ign.fr/oor#collège
+"MULTIPOINT ((898936.1 6440090.9))";SURFACTI0000000315642956;Office de Tourisme de Correçon en Vercors;Office de tourisme;http://purl.org/choucas.ign.fr/oor#office_de_tourisme
+"MULTIPOINT ((900408.3 6444713.4))";SURFACTI0000000007463015;la Tanière Enchantée;Musée;http://purl.org/choucas.ign.fr/oor#musée
+"MULTIPOINT ((900912.7 6444518.2))";SURFACTI0000000007459955;Marpa la Revola;Maison de retraite;http://purl.org/choucas.ign.fr/oor#centre_de_soin
+"MULTIPOINT ((900850.5 6444475.8))";SURFACTI0000000215297352;Logement-Foyer la Revola;Maison de retraite;http://purl.org/choucas.ign.fr/oor#centre_de_soin
+"MULTIPOINT ((900727.8 6444561.5))";SURFACTI0000000224965857;Maison du Patrimoine;Ecomusée;http://purl.org/choucas.ign.fr/oor#musée
+"MULTIPOINT ((902016 6442847))";SURFACTI0000000225117095;la Renardière;Centre équestre;http://purl.org/choucas.ign.fr/oor#centre_équestre
+"MULTIPOINT ((899239.2 6438829.0))";SURFACTI0000000225304745;les Écuries de Corençon;Centre équestre;http://purl.org/choucas.ign.fr/oor#centre_équestre
+"MULTIPOINT ((900707.9 6444733.3))";SURFACTI0000000328017139;Patinoire André Ravix;Patinoire;http://purl.org/choucas.ign.fr/oor#patinoire
+"MULTIPOINT ((902490.2 6444740.8))";SURFACTI0000000230065035;l'Essendole;Hébergement de loisirs;http://purl.org/choucas.ign.fr/oor#hébergement_accessible
+"MULTIPOINT ((902183.3 6439982.8))";SURFACTI0000000230065138;Cote 2000;Site de vol libre;http://purl.org/choucas.ign.fr/oor#site_de_vol_libre
+"MULTIPOINT ((902734.8 6442886.5))";SURFACTI0000000230065140;la Fauge;Site d'escalade;"http://purl.org/choucas.ign.fr/oor#site_d&apos;escalade"
+"MULTIPOINT ((899764.1 6438948.7))";SURFACTI0000000230065142;Combeauvieux;Site d'escalade;"http://purl.org/choucas.ign.fr/oor#site_d&apos;escalade"
+"MULTIPOINT ((900728.1 6444553.7))";SURFACTI0000000315642930;Office de Tourisme de Villard Delans;Office de tourisme;http://purl.org/choucas.ign.fr/oor#office_de_tourisme
+"MULTIPOINT ((904443.9 6435674.4))";SURFACTI0000000315643051;Office de Tourisme Balcon Est du Vercors;Office de tourisme;http://purl.org/choucas.ign.fr/oor#office_de_tourisme
+"MULTIPOINT ((900582.7 6443078.1))";SURFACTI0000002209557392;Ludi Parc;Parc de loisirs;http://purl.org/choucas.ign.fr/oor#parc_de_loisir
+"MULTIPOINT ((903599.1 6442656.8))";SURFACTI0000000007460876;Roybon;Elevage;http://purl.org/choucas.ign.fr/oor#ferme
+"MULTIPOINT ((901483.4 6444819.2))";SURFACTI0000000007463012;Placette des Écureuils;Espace public;http
+"MULTIPOINT ((900793.2 6444680.2))";SURFACTI0000000007463013;Place Mure Ravaud;Espace public;http
+"MULTIPOINT ((900814.7 6444544.5))";SURFACTI0000000007463031;Place Pierre Chabert;Espace public;http
+"MULTIPOINT ((900663.7 6444412.3))";SURFACTI0000000007463032;Place des Martyrs;Espace public;http
+"MULTIPOINT ((900749.0 6444507.9))";SURFACTI0000000007463033;Place de la Libération;Espace public;http
+"MULTIPOINT ((897544.6 6434830.7))";SURFACTI0000000007463082;Cabane de Carrette;Refuge;http://purl.org/choucas.ign.fr/oor#refuge
+"MULTIPOINT ((899281.0 6430628.9))";SURFACTI0000000007463096;Abri de la Peyrouse;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((900551.9 6444668.4))";SURFACTI0000000007463877;Gendarmerie de Villard-de-Lans;Gendarmerie;http://purl.org/choucas.ign.fr/oor#poste_de_gendarmerie
+"MULTIPOINT ((901053.7 6444989.0))";SURFACTI0000000007463880;Maison de Territoire du Vercors;Hôtel de département;http://purl.org/choucas.ign.fr/oor#bâtiment_administratif
+"MULTIPOINT ((900817.276225288 6444510.9))";SURFACTI0000000007463892;Mairie de Villard-de-Lans;Mairie;http://purl.org/choucas.ign.fr/oor#mairie
+"MULTIPOINT ((898948.295141459 6440112.05))";SURFACTI0000000007463912;Mairie de Corrençon-en-Vercors;Mairie;http://purl.org/choucas.ign.fr/oor#mairie
+"MULTIPOINT ((901290.833102263 6432389.45))";SURFACTI0000000007463931;Mairie de Saint-Andéol;Mairie;http://purl.org/choucas.ign.fr/oor#mairie
+"MULTIPOINT ((903596.3 6436130.1))";SURFACTI0000000077346069;la Soldanelle;Refuge;http://purl.org/choucas.ign.fr/oor#refuge
+"MULTIPOINT ((903047.747794118 6433911.4))";SURFACTI0000000085226641;Mairie de Château-Bernard;Mairie;http://purl.org/choucas.ign.fr/oor#mairie
+"MULTIPOINT ((900987.8 6444479.4))";SURFACTI0000000209219147;Siège de la Communauté de Communes du Massif du Vercors;Siège d'EPCI;http://purl.org/choucas.ign.fr/oor#bâtiment_administratif
+"MULTIPOINT ((900740.3 6444049.9))";SURFACTI0000000210845853;Maison de la Colline;Maison du parc;http://purl.org/choucas.ign.fr/oor#bâtiment_et_installation
+"MULTIPOINT ((902730.9 6441864.2))";SURFACTI0000000216427751;la Fauge;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((903598.9 6442649.6))";SURFACTI0000000224999444;Roybon;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((901112.1 6444497.3))";SURFACTI0000000227991513;École Maternelle les Laiches;Enseignement primaire;"http://purl.org/choucas.ign.fr/oor#établissement_d&apos;enseignement"
+"MULTIPOINT ((898234.4 6439201.8))";SURFACTI0000000230065061;Gîte d'Étape des Hauts Plateaux;Hébergement de loisirs;http://purl.org/choucas.ign.fr/oor#hébergement_accessible
+"MULTIPOINT ((901272.3 6432362.9))";SURFACTI0000000322691077;le Tetras-Lyre;Hébergement de loisirs;http://purl.org/choucas.ign.fr/oor#hébergement_accessible
+"MULTIPOINT ((900773.9 6444183.9))";SURFACTI0000000331329334;Tennis Country Club des Bains;Piscine;http://purl.org/choucas.ign.fr/oor#piscine
+"MULTIPOINT ((898794.4 6439953.4))";SURFACTI0000000333946996;Léo Lagrange;Hébergement de loisirs;http://purl.org/choucas.ign.fr/oor#hébergement_accessible
+"MULTIPOINT ((902492.8 6438415.6))";SURFACTI0000000338021477;Refuge des Crêtes;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((902161.1 6440225.2))";SURFACTI0000000338021580;Cote 2000;Site de vol libre;http://purl.org/choucas.ign.fr/oor#site_de_vol_libre
+"MULTIPOINT ((903582.8 6435339.8))";SURFACTI0000000338165404;les Jeux du Bois Mauret;Parc de loisirs;http://purl.org/choucas.ign.fr/oor#parc_de_loisir
+"MULTIPOINT ((904717.3 6441810.2))";SURFACTI0000000338739999;Baraque du Col Vert;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((899146.6 6435636.1))";SURFACTI0000000357680165;Cabane du Serre du Play;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((903271.3 6443643.5))";SURFACTI0000002003910379;Bergerie de Lurbeillet;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((899340.3 6436333.8))";SURFACTI0000002003910400;Cabane de la Combe du Fer;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((903695.3 6437687.7))";SURFACTI0000002004346129;Baraque des Clos;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((901150.8 6436834.0))";SURFACTI0000002004346332;Refuge du Grand Couloir;Abri de montagne;http://purl.org/choucas.ign.fr/oor#abri
+"MULTIPOINT ((904418.004349292 6438816.35))";FORETPUB0000002052461722;Forêt Communale du Gua;Autre forêt publique;http://purl.org/choucas.ign.fr/oor#forêt
+"MULTIPOINT ((896969.387776872 6434349.45))";FORETPUB0000002052461750;Forêt Communale de Correncon-en-Vercors;Autre forêt publique;http://purl.org/choucas.ign.fr/oor#forêt
+"MULTIPOINT ((904239.261964726 6433736.25))";FORETPUB0000002052461689;Forêt Communale de Miribel-Lanchatre;Autre forêt publique;http://purl.org/choucas.ign.fr/oor#forêt
+"MULTIPOINT ((902554.356880954 6435855.55))";FORETPUB0000002052461724;Forêt Communale de Chateau-Bernard;Autre forêt publique;http://purl.org/choucas.ign.fr/oor#forêt
+"MULTIPOINT ((901622.737980769 6430315.2))";FORETPUB0000002052461442;Forêt Communale de Saint-Andeol;Autre forêt publique;http://purl.org/choucas.ign.fr/oor#forêt
+"MULTIPOINT ((901911.9 6443138.0))";CONSPONC0000000007460481;Croix des Clots;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((901662.8 6442528.6))";CONSPONC0000000007460484;Croix des Glovettes;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((901361.5 6437808.6))";CONSPONC0000000007460486;Croix Bressant;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((902243.4 6433578.0))";CONSPONC0000000007460490;Notre-Dame du Désert;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((900910.4 6430752.2))";CONSPONC0000000007460494;Croix de Garneyre;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((903547.9 6434952.5))";CONSPONC0000000007460488;Croix de Jacques;Croix;http://purl.org/choucas.ign.fr/oor#croix
+"MULTIPOINT ((902043.9 6443566.0))";CONSLINE0000000256893034;Pont de l'Amour;Pont;http://purl.org/choucas.ign.fr/oor#pont
