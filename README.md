@@ -14,6 +14,15 @@
 
 
 
+> README Contents
+> - [Prerequisites](#Prerequisites)
+> - [Data Description](#Data Description)
+> - [Purpose of the Python Scripts](#Purpose of the Python Scripts)
+>     * [Loading data](#Loading Data in the Graph Database)
+>     * [Semantic Queries](#Performing Semantic Queries)
+> - [Special thanks](#Special thanks)
+> - [Development](#Development)
+> - [Acknowledgments](#Acknowledgments)
 
 
 
@@ -23,6 +32,7 @@ Créer une base de données neo4j et un utilisateur qui a les bons droits. La ve
 
 
 Certains scripts écrits en python utilisent l'API QGIS et doivent donc être lancés dans la console python de QGIS.
+
 
 
 ## Data Description
@@ -37,15 +47,15 @@ The 13 routes, derived from diverse collaborative sources, are stored in the fil
 
 The semantic annotations of the routes are also stored in the GeoPackage in the following layers:
 
-    pii_balcons for route segments running along balconies,
+* *pii_balcons* for route segments running along balconies,
 
-    pii_lacet for route segments consisting of a series of hairpin bends,
+* *pii_lacet* for route segments consisting of a series of hairpin bends,
 
-    pii_foret for segments running along or through forests,
+* *pii_foret* for segments running along or through forests,
 
-    pii_lac for route segments running along lakes,
+* *pii_lac* for route segments running along lakes,
 
-    pii_pont for segments crossing bridges.
+* *pii_pont* for segments crossing bridges.
 
 
 
@@ -58,21 +68,25 @@ The semantic annotations of the routes are also stored in the GeoPackage in the 
 
 
 
-## Charger la base de données
+## Purpose of the Python Scripts
+
+### Loading Data in the Graph Database
 
 
 1°) Les 3 premiers peuvent lanceScript 1
 
 
-4°) A lancer dans QGIS:
+2°) A lancer dans QGIS:
 -
 
 
-## Requêtes
+### Performing Semantic Queries
 
 
 
-## Citation
+
+
+## How to cite
 
 Ce travail a été publié dans ce rapport technique:
 
@@ -82,7 +96,7 @@ Ce travail a été publié dans ce rapport technique:
 
 
 
-## Special thanks to
+## Special thanks
 <ul>
 <li></li>
 <li></li>
@@ -99,4 +113,7 @@ Institute: LASTIG, Univ Gustave Eiffel, Geodata-Paris, IGN
 Authors: [Marie-Dominique Van Damme](https://www.umr-lastig.fr/mdvandamme/)
 
 
+## Acknowledgments
+
+This work was supported by the ANR research project **[IntForOut](https://www.umr-lastig.fr/intforout/)**: Multisource spatial data INTegration FOR the Monitoring of Ecosystems under the pressure of OUTdoor recreation (ANR-23-CE55-0003).
 
