@@ -47,11 +47,11 @@ Multiple datasets are required to load the database.
 - The 5 shapefiles containing the topographic features come from the BDTOPO dataset (https://geoservices.ign.fr/bdtopo)
 
 
-3/ Sur un jeu d'annotations et d'itinéraires déposés sur une plateforme de dépôt de données ouvertes *Zenodo*: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930773.svg)](https://doi.org/10.5281/zenodo.17930773)
+3/ The dataset of semantic annotations and routes is deposited on the open data repository Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17930773.svg)](https://doi.org/10.5281/zenodo.17930773). 
 
-The 13 routes, derived from diverse collaborative sources, are stored in the file routes.csv. The geometries of the routes were map-matched to the BDTOPO road network representing the mobility network and are stored in the mobilite layer of the GeoPackage. The map-matching process is described in: https://doi.org/10.1080/23729333.2019.1615730.
+- The 13 routes, derived from diverse collaborative sources, are stored in the file routes.csv. The geometries of the routes were map-matched to the BDTOPO road network representing the mobility network and are stored in the mobilite layer of the GeoPackage. The map-matching process is described in: https://doi.org/10.1080/23729333.2019.1615730.
 
-The semantic annotations of the routes are also stored in the GeoPackage in the following layers:
+- The semantic annotations of the routes are also stored in the GeoPackage in the following layers:
 
 * *pii_balcons* for route segments running along balconies,
 
